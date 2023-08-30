@@ -22,7 +22,7 @@ h1 {
   flex-direction: column;
   justify-content: start;
   align-items: center;
-  row-gap: 5%;
+  row-gap: 10%;
 }
 
 .container {
